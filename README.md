@@ -1,2 +1,3 @@
 # README
-Caleb Vergona
+Hey! My name is Caleb.
+
